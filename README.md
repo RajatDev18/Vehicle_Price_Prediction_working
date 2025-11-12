@@ -1,17 +1,17 @@
-## Predict Vehicle Prices
-# Overview
+# Predict Vehicle Prices
+## Overview
 
 This project aims to build a machine learning model that predicts vehicle prices based on various specifications such as make, model, year, engine details, and more. The goal is to analyze the data, identify key factors affecting vehicle prices, and develop an accurate predictive system.
 
-# Objective
+## Objective
 
 To create a system that can estimate the price of a vehicle using its features and specifications. The project involves data exploration, feature engineering, and predictive modeling.
 
-# Dataset
+## Dataset
 
 The dataset contains information on multiple vehicles, including their specifications and prices.
 
-# Description of Columns
+## Description of Columns
 
 name: Full name of the vehicle, including make, model, and trim.
 
@@ -47,7 +47,7 @@ interior_color: Interior color of the vehicle.
 
 drivetrain: Drivetrain type (e.g., All-wheel Drive, Front-wheel Drive).
 
-# Tools and Technologies
+## Tools and Technologies
 
 Python
 
@@ -59,7 +59,7 @@ Scikit-learn
 
 Matplotlib / Seaborn for visualization
 
-# Approach
+## Approach
 
 Data Cleaning: Handle missing values and inconsistent data.
 
